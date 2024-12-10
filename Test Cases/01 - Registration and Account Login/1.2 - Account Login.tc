@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Precondition: Account is Registered</description>
+   <name>1.2 - Account Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>444f0543-cd88-4278-91c0-695154a9f57d</testCaseGuid>
+</TestCaseEntity>
